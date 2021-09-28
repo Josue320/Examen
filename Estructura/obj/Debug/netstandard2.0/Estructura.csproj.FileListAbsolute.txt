@@ -1,0 +1,9 @@
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\bin\Debug\netstandard2.0\Estructura.deps.json
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\bin\Debug\netstandard2.0\Estructura.dll
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.csprojAssemblyReference.cache
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.AssemblyInfo.cs
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\bin\Debug\netstandard2.0\Estructura.pdb
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.dll
+C:\Users\JADPA_27\source\repos\WindowsFormsApp1\Estructura\obj\Debug\netstandard2.0\Estructura.pdb
